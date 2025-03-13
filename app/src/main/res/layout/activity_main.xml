@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:background="@drawable/gradient_background"
+    android:padding="20dp"
+    tools:context=".MainActivity">
+
+    <!-- Title for the game -->
+    <TextView
+        android:id="@+id/title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Tic-Tac-Toe"
+        android:textSize="36sp"
+        android:textColor="#FFFFFF"
+        android:textStyle="bold"
+        android:gravity="center"
+        android:layout_marginBottom="24dp" />
+
+    <!-- GridLayout for Tic-Tac-Toe board -->
+    <GridLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:rowCount="3"
+        android:columnCount="3"
+        android:padding="8dp">
+
+        <Button
+            android:id="@+id/btn1"
+            style="@style/TicTacToeButton"
+            android:onClick="check" />
+
+        <Button
+            android:id="@+id/btn2"
+            style="@style/TicTacToeButton"
+            android:onClick="check" />
+
+        <Button
+            android:id="@+id/btn3"
+            style="@style/TicTacToeButton"
+            android:onClick="check" />
+
+        <Button
+            android:id="@+id/btn4"
+            style="@style/TicTacToeButton"
+            android:onClick="check" />
+
+        <Button
+            android:id="@+id/btn5"
+            style="@style/TicTacToeButton"
+            android:onClick="check" />
+
+        <Button
+            android:id="@+id/btn6"
+            style="@style/TicTacToeButton"
+            android:onClick="check" />
+
+        <Button
+            android:id="@+id/btn7"
+            style="@style/TicTacToeButton"
+            android:onClick="check" />
+
+        <Button
+            android:id="@+id/btn8"
+            style="@style/TicTacToeButton"
+            android:onClick="check" />
+
+        <Button
+            android:id="@+id/btn9"
+            style="@style/TicTacToeButton"
+            android:onClick="check" />
+    </GridLayout>
+
+    <!-- Reset Button -->
+    <Button
+        android:id="@+id/btnReset"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="24dp"
+        android:backgroundTint="#FF5722"
+        android:elevation="8dp"
+        android:onClick="newGame"
+        android:padding="12dp"
+        android:text="Restart"
+        android:textColor="#FFFFFF"
+        android:textSize="18sp" />
+</LinearLayout>
