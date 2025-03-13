@@ -79,7 +79,7 @@ Contributions are welcome! Follow these steps to contribute:
 ---
 
 ## 📩 **Contact**  
-📧 Email: vishwathma2004@example.com  
+📧 Email: vishwathman@gmail.com
 💼 [LinkedIn](https://linkedin.com/in/vishwathma2004)  
 
 ---
