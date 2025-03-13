@@ -1,6 +1,12 @@
 # 🎯 Tic-Tac-Toe Game
 
-![Tic-Tac-Toe Logo](app/src/main/res/drawable/tic_tac_toe_logo.webp)
+<p align="center">
+  <img src="./app/src/main/res/drawable/tic_tac_toe_logo.webp" alt="Tic Tac Toe Logo" width="150" height="150">
+</p>
+
+> 🎯 *Logo generated using AI*  
+
+
 
 🚀 A modern and fun Tic-Tac-Toe game built using **Java** and **Android Studio** with a sleek UI and smooth gameplay experience!
 
@@ -68,9 +74,8 @@ git clone https://github.com/Vishwathma2004/Tic-Tac-Toe-App.git
 
 
 ---
-
 ## 📩 **Contact**  
-📧 Email: vishwathman@gmail.com
+📧 Email: vishwathman@gmail.com  
 💼 [LinkedIn](https://linkedin.com/in/vishwathma2004)  
 
 ---
