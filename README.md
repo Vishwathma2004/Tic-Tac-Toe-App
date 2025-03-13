@@ -1,17 +1,9 @@
 # 🎯 Tic-Tac-Toe Game
 
-![Tic-Tac-Toe Logo](app/src/main/res/drawable/tic_tac_toe_logo.png)
+![Tic-Tac-Toe Logo](app/src/main/res/drawable/tic_tac_toe_logo.webp)
 
 🚀 A modern and fun Tic-Tac-Toe game built using **Java** and **Android Studio** with a sleek UI and smooth gameplay experience!
 
----
-
-## 📱 **Screenshots**  
-<div align="center">
-  <img src="screenshots/splash_screen.png" width="300" alt="Splash Screen"/>  
-  <img src="screenshots/game_screen.png" width="300" alt="Game Screen"/>  
-  <img src="screenshots/winner_screen.png" width="300" alt="Winner Screen"/>
-</div>
 
 ---
 
