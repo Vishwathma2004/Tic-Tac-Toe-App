@@ -111,5 +111,4 @@ public class MainActivity extends AppCompatActivity {
         count = 0;
         flag = 0;
     }
-
 }
